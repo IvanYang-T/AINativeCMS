@@ -1,0 +1,14 @@
+<template>
+  <router-view />
+</template>
+
+<script setup lang="ts"></script>
+
+<style>
+html, body, #app {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter, system-ui, sans-serif;
+  background: #f5f7fb;
+}
+</style>

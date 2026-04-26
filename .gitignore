@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Maven
+target/
+**/target/
+
+# Node
+node_modules/
+**/node_modules/
+
+# Vite
+dist/
